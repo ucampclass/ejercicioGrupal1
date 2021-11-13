@@ -3,12 +3,12 @@
 Este ejercicio es grupal, por lo cual debera ser resuelto por todos los miembros del equipo
 
 ### Parte 1
-- Debes crear un proyecto de node nuevo con las siguientes caracteristicas. el nombre del proyecto debe llamarse grupal, en descripción, nombre de los integrantes, Para el autor seleccionen a un miembre del equipo.
-- Deben crar una nueva carpeta dentro con el nombre app. Esta carpeta debe contener un index.js y un style.css. Debes importar tu css al archivo index.html
-- Deben crear un archivo index.js en su carpeta. Este se debe ejecutar cuando ejecutes en comando npm start
+- Debes crear un proyecto node nuevo con las siguientes caracteristicas. el nombre del proyecto debe llamarse grupal, en descripción, nombre de los integrantes, Para el autor seleccionen a un miembre del equipo.
+- Deben crear una nueva carpeta a nivel del package.json con el nombre app. Esta carpeta debe contener un index.html y un style.css. Debes importar tu css al archivo index.html
+- Deben crear un archivo index.js a nivel del package.json. Este se debe ejecutar cuando ejecutes en comando npm start
 - Debes buscar en google e instalar el paquete brower sync
 - En el archivo index.js debes importar brower sync. Tienes que buscar como configurar brower sync para que escuche los cambios que se realizan en la carpeta app. 
-- Ya que lo tengas configurado ejecuta npm start para ver los cambios en tiempo real de tu index.js
+- Ya que lo tengas configurado ejecuta npm start para ver los cambios en tiempo real de tu index.html
 
 ### Parte 2
 
