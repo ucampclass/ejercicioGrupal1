@@ -19,3 +19,5 @@ Este ejercicio es grupal, por lo cual debera ser resuelto por todos los miembros
 - Recuperado los valores deberas crear un objeto que se llame body. este debe tener la propiedad user y password. User contendra el valor del campo username y password el valor del campo password
 - Debes imprimir en consola en objeto body
 - Por ultimo, deberas subir su proyecto al repositorio.
+
+[a link] (https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/fileexport/Export_D4a4205ec994381d40d0dc3c625c850b7.pdf)
